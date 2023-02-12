@@ -1,10 +1,3 @@
-## The documentation is available online here:
-https://silicon.createx.studio/docs/getting-started.html
-OR
-**Offline**: inside Silicon/docs folder
-
-## To download Figma files which include all design mockups follow the link below:
-https://drive.google.com/drive/folders/18CnOLboHfdsTST5MC7KEp6IUt8yBpAwk?usp=sharing
 
 ## Theme Installation Steps:
 1. Install Node.js and Npm (Node Package Manager)
